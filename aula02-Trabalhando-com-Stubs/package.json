@@ -1,0 +1,14 @@
+{
+  "name": "aula02-trabalhando-com-stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/service.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^9.2.1"
+  }
+}
